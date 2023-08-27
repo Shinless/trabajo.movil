@@ -1,0 +1,7 @@
+{
+  "name": "abarrotes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
